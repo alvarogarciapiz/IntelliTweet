@@ -1,0 +1,7 @@
+urllib3
+requests
+selenium
+beautifulsoup4
+tweepy
+python-dotenv
+translate
