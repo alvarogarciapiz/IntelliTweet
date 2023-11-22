@@ -71,4 +71,4 @@ def translate(input):
 ## Future Improvements
 - [ ] Add some parameters to a config file (language, model to be used, even different Twitter accounts (changing .env))
 - [ ] Better prompting
-- [ ] Tests
+- [X] Tests
